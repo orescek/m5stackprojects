@@ -1,11 +1,11 @@
 # m5stackprojects
 Simple projects using m5stack devices. 
 
-Due that I am lazy teaching my kids math I started to create simple math problems. For now all  are in separated files but I am planing to create full app.
+Due that I am lazy teaching my kids math I started to create simple math problems. For now all are in separated files but I am planing to create full app.
 All is done through UiFlow v2.0 and I am using Core2 device - probably others will work. 
 
 Benefits:
-- And we are more global warming aware so we save on paper, pencils, sharpeners, printer toners and so on. 
+- We are more global warming aware so we save on paper, pencils, sharpeners, printer toners and so on. 
 - It saves time searching for math problems. 
 - Low power device so no more high bills printing your stuff
 - You can justify your buy to your partner
