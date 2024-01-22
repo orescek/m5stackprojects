@@ -9,4 +9,10 @@ Jump to https://m5stack.com/uiflow and download or use web browser. I will write
 
 # Programs
 
-addition - calculate two numbers (from 0-100) by choosing from 3 answers. It will give you random quote for busting morale( ok wife said they need to first do math and then reading - so I combined it :) )
+## Math
+
+### addition.m5f2
+
+Calculate two numbers (from 0-100) by choosing from 3 answers. It will give you random quote for busting morale( ok wife said they need to first do math and then reading - so I combined it :smile: )
+
+![image info](./Images/addition.jpg)
