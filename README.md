@@ -6,6 +6,8 @@ All is done through UiFlow v2.0 and I am using Core2 device - probably others wi
 
 Benefits:
 - We are more global warming aware so we save on paper, pencils, sharpeners, printer toners and so on. 
+- no distraction from other apps.
+- maybe kids safe
 - It saves time searching for math problems. 
 - Low power device so no more high bills printing your stuff
 - You can justify your buy to your partner
